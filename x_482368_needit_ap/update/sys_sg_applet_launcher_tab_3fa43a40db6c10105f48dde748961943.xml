@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="NeedIt">5192faccdb2c10105f48dde748961988</applet_launcher>
+        <icon display_value="File - Green">da538b3eff061300f1f2883b73e11ca5</icon>
+        <label>NeedIt</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 16:51:24</sys_created_on>
+        <sys_id>3fa43a40db6c10105f48dde748961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_3fa43a40db6c10105f48dde748961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 16:51:24</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

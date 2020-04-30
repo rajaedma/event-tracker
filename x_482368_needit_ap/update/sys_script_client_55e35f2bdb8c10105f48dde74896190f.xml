@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>NeedIt OnSubmit Requested for</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	alert("Thank you for submitting a record");
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 19:36:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>55e35f2bdb8c10105f48dde74896190f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NeedIt OnSubmit Requested for</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_update_name>sys_script_client_55e35f2bdb8c10105f48dde74896190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 19:57:33</sys_updated_on>
+        <table>x_482368_needit_ap_needit</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

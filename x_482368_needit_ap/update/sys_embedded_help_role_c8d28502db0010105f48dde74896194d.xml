@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_482368_needit_ap.requestor and fulfiller" name="x_482368_needit_ap.requestor and fulfiller">0cd28502db0010105f48dde748961949</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 17:09:22</sys_created_on>
+        <sys_id>c8d28502db0010105f48dde74896194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0cd28502db0010105f48dde748961949</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c8d28502db0010105f48dde74896194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 17:09:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

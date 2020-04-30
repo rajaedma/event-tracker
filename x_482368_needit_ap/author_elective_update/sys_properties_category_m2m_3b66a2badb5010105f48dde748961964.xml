@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="NeedIt Properties">41712e3adb5010105f48dde748961998</category>
+        <order>100</order>
+        <property display_value="change.conflict.assigned_to" name="change.conflict.assigned_to">954ffbe0b71023008ef6eac7ee11a961</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 18:35:45</sys_created_on>
+        <sys_id>3b66a2badb5010105f48dde748961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>change.conflict.assigned_to.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_3b66a2badb5010105f48dde748961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 18:35:45</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt App">62d18942db0010105f48dde748961997</application>
+        <file_path/>
+        <instance_id>956b5e9ddb87d7c06578f22ebf961971</instance_id>
+        <instance_name>dev63167</instance_name>
+        <name>sys_properties_category_m2m_3b66a2badb5010105f48dde748961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="NeedIt Properties">41712e3adb5010105f48dde748961998</category><order>100</order><property display_value="change.conflict.assigned_to" name="change.conflict.assigned_to">954ffbe0b71023008ef6eac7ee11a961</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-24 18:35:45</sys_created_on><sys_id>3b66a2badb5010105f48dde748961964</sys_id><sys_mod_count>0</sys_mod_count><sys_name>change.conflict.assigned_to.NeedIt Properties</sys_name><sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package><sys_policy/><sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope><sys_update_name>sys_properties_category_m2m_3b66a2badb5010105f48dde748961964</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-24 18:35:45</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>-135840661</payload_hash>
+        <record_name>change.conflict.assigned_to.NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>f2d18942db0010105f48dde748961999</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 18:35:45</sys_created_on>
+        <sys_id>f766a2badb5010105f48dde748961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ad7961880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 18:35:45</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>3366a2ba52501010921e48693b553467</update_guid>
+        <update_guid_history>3366a2ba52501010921e48693b553467:-135840661</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 18:44:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>12ed1c3fea184b1583752c249ac4dbb9</sys_id>
+        <sys_metadata>3b66a2badb5010105f48dde748961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>change.conflict.assigned_to.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_scope_delete display_value="">6cde5588cce443f2b102e284be61d831</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_3b66a2badb5010105f48dde748961964</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_3b66a2badb5010105f48dde748961964">f766a2badb5010105f48dde748961967</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 18:44:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 17:22:52</sys_created_on>
+        <sys_id>02e50d06db0010105f48dde748961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_482368_needit_ap_needit_table.x_482368_needit_ap.administrator</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_security_acl display_value="x_482368_needit_ap_needit_table">39e50d06db0010105f48dde748961976</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_02e50d06db0010105f48dde748961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 17:22:52</sys_updated_on>
+        <sys_user_role display_value="x_482368_needit_ap.administrator" name="x_482368_needit_ap.administrator">52234d82db0010105f48dde748961974</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt App">62d18942db0010105f48dde748961997</application>
+        <file_path/>
+        <instance_id>956b5e9ddb87d7c06578f22ebf961971</instance_id>
+        <instance_name>dev63167</instance_name>
+        <name>sys_security_acl_role_02e50d06db0010105f48dde748961979</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 17:22:52</sys_created_on><sys_id>02e50d06db0010105f48dde748961979</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_482368_needit_ap_needit_table.x_482368_needit_ap.administrator</sys_name><sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package><sys_policy/><sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope><sys_security_acl display_value="x_482368_needit_ap_needit_table">39e50d06db0010105f48dde748961976</sys_security_acl><sys_update_name>sys_security_acl_role_02e50d06db0010105f48dde748961979</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 17:22:52</sys_updated_on><sys_user_role display_value="x_482368_needit_ap.administrator" name="x_482368_needit_ap.administrator">52234d82db0010105f48dde748961974</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1696888807</payload_hash>
+        <record_name>x_482368_needit_ap_needit_table.x_482368_needit_ap.administrator</record_name>
+        <reverted_from/>
+        <source>f2d18942db0010105f48dde748961999</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 17:22:52</sys_created_on>
+        <sys_id>86e50d06db0010105f48dde74896197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715ff7454f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 17:22:52</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>cee50d066c001010bf17a5c63608fa7a</update_guid>
+        <update_guid_history>cee50d066c001010bf17a5c63608fa7a:1696888807</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_482368_needit_ap_needit_table.x_482368_needit_ap.administrator">4e3fde93dbc010105f48dde7489619f4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 21:05:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>36d8498d8b0d412ebc50142434132141</sys_id>
+        <sys_metadata>02e50d06db0010105f48dde748961979</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_482368_needit_ap_needit_table.x_482368_needit_ap.administrator</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_parent display_value="">39e50d06db0010105f48dde748961976</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_scope_delete display_value="">6cde5588cce443f2b102e284be61d831</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_02e50d06db0010105f48dde748961979</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_02e50d06db0010105f48dde748961979">86e50d06db0010105f48dde74896197b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 21:05:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

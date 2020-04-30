@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="NeedIt - Next Quarter">2f0c6ec8db2c10105f48dde748961954</data_item>
+        <interleaved_field/>
+        <name>NeedIt Next Quarter Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 16:37:54</sys_created_on>
+        <sys_id>a4d13accdb2c10105f48dde7489619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Next Quarter Item Stream</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_update_name>sys_sg_item_stream_a4d13accdb2c10105f48dde7489619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 16:37:54</sys_updated_on>
+        <table>x_482368_needit_ap_needit</table>
+    </sys_sg_item_stream>
+</record_update>

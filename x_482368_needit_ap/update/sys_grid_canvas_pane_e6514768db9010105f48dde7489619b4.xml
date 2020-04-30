@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Enterprise CMDB">6a51c368db9010105f48dde7489619bc</grid_canvas>
+        <height>9</height>
+        <portal_widget display_value="Created 2020-04-17 13:47:02">2a514768db9010105f48dde7489619aa</portal_widget>
+        <posx>4</posx>
+        <posy>46</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-17 20:47:02</sys_created_on>
+        <sys_id>e6514768db9010105f48dde7489619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6a51c368db9010105f48dde7489619bc</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_e6514768db9010105f48dde7489619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-17 20:47:02</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

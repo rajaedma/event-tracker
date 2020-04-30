@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_482368_needit_ap_needit_table" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 17:25:44</sys_created_on>
+            <sys_id>77860546db0010105f48dde748961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 17:25:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approvals</element>
+            <list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 17:25:44</sys_created_on>
+            <sys_id>7f860546db0010105f48dde748961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 17:25:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>spreadsheet</element>
+            <list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 17:25:44</sys_created_on>
+            <sys_id>ff860546db0010105f48dde748961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 17:25:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user_input_form</element>
+            <list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 17:25:44</sys_created_on>
+            <sys_id>73860546db0010105f48dde748961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 17:25:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user_input_service_catalog</element>
+            <list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 17:25:44</sys_created_on>
+            <sys_id>f3860546db0010105f48dde748961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 17:25:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_482368_needit_ap_needit_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 17:25:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b860182db0010105f48dde7489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_482368_needit_ap_needit_table</sys_name>
+            <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+            <sys_update_name>sys_ui_list_x_482368_needit_ap_needit_table_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 17:25:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt App">62d18942db0010105f48dde748961997</application>
+        <file_path/>
+        <instance_id>956b5e9ddb87d7c06578f22ebf961971</instance_id>
+        <instance_name>dev63167</instance_name>
+        <name>sys_ui_list_x_482368_needit_ap_needit_table_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_482368_needit_ap_needit_table" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 17:25:44</sys_created_on><sys_id>77860546db0010105f48dde748961971</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 17:25:44</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>approvals</element><list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 17:25:44</sys_created_on><sys_id>7f860546db0010105f48dde748961971</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 17:25:44</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>spreadsheet</element><list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 17:25:44</sys_created_on><sys_id>ff860546db0010105f48dde748961971</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 17:25:44</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>user_input_form</element><list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 17:25:44</sys_created_on><sys_id>73860546db0010105f48dde748961972</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 17:25:44</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>user_input_service_catalog</element><list_id display_value="x_482368_needit_ap_needit_table" element="NULL" name="x_482368_needit_ap_needit_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b860182db0010105f48dde7489619be</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 17:25:44</sys_created_on><sys_id>f3860546db0010105f48dde748961972</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 17:25:44</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_482368_needit_ap_needit_table</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 17:25:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3b860182db0010105f48dde7489619be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_482368_needit_ap_needit_table</sys_name><sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package><sys_policy/><sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope><sys_update_name>sys_ui_list_x_482368_needit_ap_needit_table_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 17:25:44</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>370595396</payload_hash>
+        <record_name>NeedIt Table</record_name>
+        <reverted_from/>
+        <source>f2d18942db0010105f48dde748961999</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 17:25:44</sys_created_on>
+        <sys_id>00960546db0010105f48dde748961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715ff9e5620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 17:25:44</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>cc960546b50010101bb3110cc0bdf573</update_guid>
+        <update_guid_history>cc960546b50010101bb3110cc0bdf573:370595396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 21:05:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>5a4a7e2c55c740408aefced121a6f469</sys_id>
+        <sys_metadata>3b860182db0010105f48dde7489619be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_482368_needit_ap_needit_table</sys_name>
+        <sys_package display_value="NeedIt App" source="x_482368_needit_ap">62d18942db0010105f48dde748961997</sys_package>
+        <sys_parent display_value="">70e58906db0010105f48dde7489619ea</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt App">62d18942db0010105f48dde748961997</sys_scope>
+        <sys_scope_delete display_value="">6cde5588cce443f2b102e284be61d831</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_482368_needit_ap_needit_table_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_482368_needit_ap_needit_table_null">00960546db0010105f48dde748961974</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 21:05:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
